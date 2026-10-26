@@ -1,0 +1,5 @@
+*.o
+*.gch
+*.exe
+obj/
+jogo_da_velha
